@@ -8601,6 +8601,11 @@ url-parse@^1.5.3:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
 
+use-position@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/use-position/-/use-position-1.0.0.tgz#6fc043cd29a699b455eabe845db18827fb5d495c"
+  integrity sha512-YEN3YwP3rBmtlJeU49C4qPTPPV+FZJ8O+L3VpIFwnaDcYzf1RVp2HWYWsuLytYHm5ga2a3lZjyk4ou5vonxNrQ==
+
 util-deprecate@^1.0.1, util-deprecate@^1.0.2, util-deprecate@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
